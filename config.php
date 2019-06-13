@@ -1,0 +1,1 @@
+<?php $iphost="192.168.11.1"; $userhost="imam"; $passwdhost="nZ2XrpagaWI="; $useradm="dh.net"; $passadm="nZ2XrpagaWI="; $hotspotname="Dieng Hotspot"; $dnsname="diengspot.net"; $curency="Rp";  $areload="10";  $iface="1";  $maxtx="100000000"; $maxrx="100000000"; if(substr($_SERVER["REQUEST_URI"], -10) == "config.php"){header("Location:./");};?>
